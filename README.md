@@ -1,2 +1,2 @@
-# cracking_softcell
-TLP WHITE stuff on SOFTCELL Analysis
+# TLP WHITE stuff from Sofcell Analysis
+Contains presentation and several IOCs 
